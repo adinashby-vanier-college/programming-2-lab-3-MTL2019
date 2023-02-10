@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "rotateTheArrayTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabThreeTests.rotateTheArrayTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "rotateTheArrayTest2",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.rotateTheArrayTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "jumpGameTest1",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.jumpGameTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "jumpGameTest2",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.jumpGameTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    }
+  ]
+}
